@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.Trashes
+._* 
+Icon?
+
+# Node/Next.js
+node_modules
+.next
+out
+dist
+.vercel
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Editors
+.vscode
+.idea
+*.swp
+*.swo
